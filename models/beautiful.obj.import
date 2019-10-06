@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/beautiful.obj-cbe8138e06bda8c62c4bc1c5540309ea.mesh"
+
+[deps]
+
+files=[ "res://.import/beautiful.obj-cbe8138e06bda8c62c4bc1c5540309ea.mesh" ]
+
+source_file="res://models/beautiful.obj"
+dest_files=[ "res://.import/beautiful.obj-cbe8138e06bda8c62c4bc1c5540309ea.mesh", "res://.import/beautiful.obj-cbe8138e06bda8c62c4bc1c5540309ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

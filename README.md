@@ -13,11 +13,7 @@ Perhaps more interactive art than a typical game, the player has to learn the ga
 
 ## Tools
 
-Godot Engine
-Blender
-Photoshop
-Ableton Live
-bfxr
+Godot Engine, Blender, Photoshop, Ableton Live, bfxr
 
 ## Links
 
